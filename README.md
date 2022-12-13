@@ -1,6 +1,5 @@
 # Fully-Automated-Decentralized-Lottery
 
-```
 
 # Usage
 
